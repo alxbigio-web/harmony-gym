@@ -1,0 +1,16 @@
+{
+  "name": "Harmony Gym",
+  "short_name": "Harmony Gym",
+  "description": "Ear, voicing and singing trainer with a 12-week plan.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f121c",
+  "theme_color": "#0f121c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
